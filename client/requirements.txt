@@ -1,0 +1,12 @@
+websockets==12.0
+psutil==5.9.8
+python-dotenv==1.0.1
+pynput>=1.7.6
+cryptography==42.0.5
+pyautogui==0.9.54
+Pillow>=10.0.0
+keyboard==0.13.5
+mouse==0.7.1
+opencv-python>=4.8.0
+requests>=2.31.0
+mss==9.0.1
