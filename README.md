@@ -108,20 +108,7 @@ python start_client.py
    - System monitoring
    - Remote command execution
 
-## 🤝 Contributing
-
-1. Fork it
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Create a Pull Request
-
 ## 📜 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
 
-## 📞 Contact
-
-Project Owner - [@GithubUsername](https://github.com/yourusername)
-
-Project Link: [https://github.com/yourusername/remotedesktop](https://github.com/yourusername/remotedesktop)
